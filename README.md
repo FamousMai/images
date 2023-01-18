@@ -25,5 +25,5 @@ https://github.com/Molunerfinn/PicGo
   - 格式：https://cdn.statically.io/gh/:user/:repo/:tag/:file
   - 官网：https://statically.io（这里用了，免费的GitHub的cdn域名）
 
-### 3、Typora设置 图片/上传服务设定
+### 5、Typora设置 图片/上传服务设定
 选择 PicGo 进行上传
