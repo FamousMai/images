@@ -22,7 +22,7 @@ https://github.com/Molunerfinn/PicGo
 - 设定存储路径：`imgs/`（自定义）
 - 设定自定义域名：`https://cdn.statically.io/gh/famousmai/images/master/images.jpg`
   - 格式：https://cdn.statically.io/gh/:user/:repo/:tag/:file
-  - 官网：https://statically.io（这里用了，免费的GitHub的cdn域名）
+  - 官网：[https://statically.io](https://statically.io)（这里用了，免费的GitHub的cdn域名）
 
 ### 5、Typora设置 图片/上传服务设定
 选择 PicGo 进行上传
